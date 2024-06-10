@@ -2,7 +2,7 @@
 
 Sirriaa/README.md
 
-[https://img.shields.io/badge/any_text-you_like-blue](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+https://img.shields.io/badge/any_text-you_like-blue https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 
 
 
