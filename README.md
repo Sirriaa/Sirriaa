@@ -28,7 +28,8 @@
 
 ## 🚀 주요 프로젝트
 
-- **[프로젝트 이름](https://github.com/Sirriaa/projects/3)**  
+- **[프로젝트 이름]([https://github.com/Sirriaa/projects/3](https://github.com/Sirriaa/ELK/tree/main))**
+- 
   간단한 프로젝트 설명을 여기에 작성하세요. 이 프로젝트는 어떤 문제를 해결하며, 어떤 기술을 사용했는지 간략히 설명합니다.
   ![Stars](https://img.shields.io/github/stars/Sirriaa/projects/3) ![Forks](https://img.shields.io/github/forks/yourusername/project-name?style=social)
 
