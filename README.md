@@ -1,34 +1,29 @@
 ## Hi there 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-
 ### About Me
 
-I am a passionate developer who loves coding and open-source.
+🚀 I am a passionate developer who loves coding and open-source. I have experience working with modern programming languages and frameworks, focused on efficient development and robust solutions.
 
 ### Skills
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
-![React](https://img.shields.io/badge/React-JS-blue)
-![Node.js](https://img.shields.io/badge/Node.js-JS-green)
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
+🔧 **Programming Languages and Frameworks:**
+- **JavaScript**: Proficient in both front-end and back-end development. Experienced with ES6+ features.
+- **Node.js**: Deep knowledge in building scalable and high-performance server-side applications.
+- **Python**: Skilled in writing clean and efficient code for data analysis, web development, and automation.
 
 ### Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Twitter](https://twitter.com/yourusername)
-- [Email](mailto:your.email@example.com)
+- **Email**: [your-email@example.com]
+- **GitHub**: [your-github-profile](https://github.com/your-github-profile)
+- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
 
 ### GitHub Stats
 
-![Sirriaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ### Featured Projects
 
-- [Project Name](https://github.com/yourusername/project-name) ![Stars](https://img.shields.io/github/stars/yourusername/project-name?style=social) ![Forks](https://img.shields.io/github/forks/yourusername/project-name?style=social)
-
-
-
+- **Project Name**: Description of the project. [View Repository](https://github.com/your-github-profile/project-name)
 
 <!--
 **Sirriaa/Sirriaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
