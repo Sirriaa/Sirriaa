@@ -30,8 +30,8 @@
 
 - **[중고거래 디앱](https://github.com/Sirriaa/ELK/tree/main)**
 - 
-  간단한 프로젝트 설명을 여기에 작성하세요. 이 프로젝트는 어떤 문제를 해결하며, 어떤 기술을 사용했는지 간략히 설명합니다.
-  ![Stars](https://img.shields.io/github/stars/Sirriaa/projects/3) ![Forks](https://img.shields.io/github/forks/yourusername/project-name?style=social)
+  이더리움 기반 중고거래디앱을 개발했습니다. 블록체인 서버를 Metamask를 매개체를 삼아 node.js패키지로 연결했습니다. 
+  ![Stars](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-r4oOGROCkeOPa_wrX12WwDCrOw-2HKSgeQ&s) ![Forks](https://img.shields.io/github/forks/yourusername/project-name?style=social)
 
 ## 📫 연락처
 
