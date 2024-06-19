@@ -36,5 +36,4 @@
 ## 📫 연락처
 
 - [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Twitter](https://twitter.com/yourusername)
-- [Email](mailto:your.email@example.com)
+- [Email](mailto:game15091509@icloud.com)
