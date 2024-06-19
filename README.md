@@ -31,7 +31,7 @@
 ![Sirriaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🚀 주요 프로젝트
-
+- **[kali 모의 해킹](https://github.com/Sirriaa/Ettercap-)**
 - **[중고거래 디앱](https://github.com/Sirriaa/ELK/tree/main)**
 - 
   이더리움 기반 중고거래디앱을 개발했습니다. 블록체인 서버를 Metamask를 매개체를 삼아 node.js패키지로 연결했습니다. 
