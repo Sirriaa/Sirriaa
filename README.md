@@ -32,7 +32,7 @@
 
 ## 📈 GitHub 통계
 
-![Sirriaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Sirriaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sirriaa&show_icons=true&theme=radical)
 
 ## 🚀 주요 프로젝트
 - **[kali 모의 해킹](https://github.com/Sirriaa/Ettercap-)**
