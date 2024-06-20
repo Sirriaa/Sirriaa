@@ -1,3 +1,7 @@
+## Welcome to the Simulation 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
 ## 👋 안녕하세요!
 
 안녕하세요 저는 블록체인 개발자를 꿈꾸고 다양한 프로젝트에 관여하여 그들의 프로젝트를 안정적이고 부드럽게 도와주고 싶은 현재 컴퓨터*소프트웨어전공 4학년 재학중인 송상민입니다.
