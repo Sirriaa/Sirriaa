@@ -20,6 +20,8 @@
 
 - **백엔드 프레임워크 및 플랫폼**
   - ![Node.js](https://img.shields.io/badge/Node.js-JS-green)
+  - ![Docker](https://img.shields.io/badge/Docker-Container-blue)
+  - ![Remix](https://img.shields.io/badge/Remix-Framework-purple)
 
 - **데이터베이스**
   - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-lightblue)
