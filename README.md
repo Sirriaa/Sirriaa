@@ -18,6 +18,7 @@
 - **프론트엔드 프레임워크 및 라이브러리**
   - ![React](https://img.shields.io/badge/React-JS-blue)
   - ![Node.js](https://img.shields.io/badge/Node.js-JS-green)
+  - ![MetaMask](https://img.shields.io/badge/MetaMask-Wallet-orange)
 
 - **백엔드 프레임워크 및 플랫폼**
   - ![Node.js](https://img.shields.io/badge/Node.js-JS-green)
