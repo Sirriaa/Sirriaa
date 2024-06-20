@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0000ff,100:87ceeb&text=Welcome%20to%20Sangmin's%20GitHub%20🚀&animation=twinkling&fontColor=ffffff&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
-
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:87cefa&text=Welcome%20to%20Sangmin's%20GitHub%20🚀&animation=twinkling&fontColor=ffffff&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
 
 
 
