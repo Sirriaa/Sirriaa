@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Welcome%20to%20Sangmin's%20GitHub%20👋&fontSize=35&fontAlignY=50&height=150)
+![header](https://capsule-render.vercel.app/api?type=clover&color=gradient&text=Welcome%20to%20Han's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
+
 
 
 
