@@ -47,7 +47,6 @@
 
 - **데이터베이스**
   - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-lightblue)
-  - ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-DB-red)
   - ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-DB-orange)
 
 ## 📈 GitHub 통계
